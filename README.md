@@ -1,1 +1,1 @@
-# VENDRE.github.io
+# VENDRE-project
