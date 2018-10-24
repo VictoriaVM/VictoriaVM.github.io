@@ -14,6 +14,10 @@
 	font-family: FreightDispBookItalic;
 	src: url('FreightDispBookItalic Regular.ttf');
 }
+@font-face{
+	font-family: FreightDispBook;
+	src: url('FreightDispBook Regular.ttf');
+}
 body{
 	overflow-x: hidden !important; 
 }
