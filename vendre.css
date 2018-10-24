@@ -18,6 +18,14 @@
 	font-family: FreightDispBook;
 	src: url('FreightDispBook Regular.ttf');
 }
+@font-face{
+	font-family: Futura Lt Bt;
+	src: url('futura light bt.ttf');
+}
+@font-face{
+	font-family: Futura Bk Bt;
+	src: url('Futura Book font.ttf');
+}
 body{
 	overflow-x: hidden !important; 
 }
