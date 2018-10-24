@@ -26,6 +26,14 @@
 	font-family: Futura Bk Bt;
 	src: url('Futura Book font.ttf');
 }
+@font-face{
+	font-family: Futura Light Italic BT;
+	src: url('Futura Light Italic.ttf');
+}
+@font-face{
+	font-family: Futura Book Italic BT;
+	src: url('FuturaBookItalic.ttf');
+}
 body{
 	overflow-x: hidden !important; 
 }
